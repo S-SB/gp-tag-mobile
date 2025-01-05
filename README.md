@@ -2,6 +2,11 @@
 
 GP-Tag Mobile is a mobile implementation of GP-Tag detection and encoding for Android devices.
 
+## Related Repositories
+- [GP-Tag](https://github.com/S-SB/gp-tag) - Core GP-Tag implementation and documentation
+- [GP-Tag ROS2](https://github.com/S-SB/gp-tag-ros2) - ROS2 implementation for robotics integration
+- [GP-Tag Mobile](https://github.com/S-SB/gp-tag-mobile) - This repository
+  
 ## Author
 S. E. Sundén Byléhn
 
