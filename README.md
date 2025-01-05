@@ -1,3 +1,4 @@
+![GP-Tag Overview](docs/images/social-preview-mobile.png)
 # GP-Tag Mobile
 
 GP-Tag Mobile is a mobile implementation of GP-Tag detection and encoding for Android devices.
